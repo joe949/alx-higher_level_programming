@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 def uppercase(input_str):
     for char in input_str:
         if 97 <= ord(char) <= 122:
